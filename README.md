@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EduardodeMouraSilva
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, CSS3 and HTML5
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
